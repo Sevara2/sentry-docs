@@ -1,4 +1,4 @@
-# Sentry Documentation
+#Apple# Sentry Documentation
 
 Take a look at our [Contributing to Docs](https://docs.sentry.io/contributing/) documentation to get started.
 
